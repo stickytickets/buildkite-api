@@ -1,0 +1,20 @@
+{
+	"name": "buildkite",
+	"version": "1.0.0",
+	"description": "command line tool to for buildkite",
+	"main": "index.js",
+	"bin": {
+	"buildkite": "bin/cli.js"
+	},
+	"scripts": {
+	"test": "mocha"
+	},
+	"repository": {
+	"type": "git",
+	"url": "stickytickets:stickytickets/prazzle.git"
+	},
+	"dependencies": {
+		"reqwest": "^2.0.5",
+		 "yargs": "^4.2.0"
+	}
+}
