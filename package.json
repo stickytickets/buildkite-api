@@ -1,6 +1,6 @@
 {
 	"name": "buildkite",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "command line tool to for buildkite",
 	"main": "index.js",
 	"bin": {
